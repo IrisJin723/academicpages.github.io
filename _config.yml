@@ -28,7 +28,7 @@ author:
   bio              : "Love fantasy!"
   location         : "Hangzhou China"
   employer         : #"Red Brick University"
-  url              : # URL
+  uri              : # URL
   email            : "et.jin@zju.edu.cn" 
 
   # Academic websites
