@@ -13,7 +13,7 @@ title                    : "Welcome to JET's Page!"
 title_separator          : "-"
 name                     : &name "Entong Jin"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://irisjin723.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Love fantasy!"
   location         : "Hangzhou China"
   employer         : #"Red Brick University"
-  uri              : # URL
+  url              : # URL
   email            : "et.jin@zju.edu.cn" 
 
   # Academic websites
